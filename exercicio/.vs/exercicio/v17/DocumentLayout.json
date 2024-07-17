@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jonathan\\Desktop\\Estudo\\Manipu\u00E7\u00E3o de arquivo\\exercicio\\exercicio\\",
+  "WorkspaceRootPath": "C:\\Users\\Jonathan\\Desktop\\Estudo\\Manipu\u00E7\u00E3o de arquivo\\exercicio\\ManipulacaoArquivosCS\\exercicio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85F1351B-537E-4274-A626-DCEAFE0418F3}|exercicio\\exercicio.csproj|c:\\users\\jonathan\\desktop\\estudo\\manipu\u00E7\u00E3o de arquivo\\exercicio\\exercicio\\exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85F1351B-537E-4274-A626-DCEAFE0418F3}|exercicio\\exercicio.csproj|c:\\users\\jonathan\\desktop\\estudo\\manipu\u00E7\u00E3o de arquivo\\exercicio\\manipulacaoarquivoscs\\exercicio\\exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85F1351B-537E-4274-A626-DCEAFE0418F3}|exercicio\\exercicio.csproj|solutionrelative:exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F1351B-537E-4274-A626-DCEAFE0418F3}|exercicio\\exercicio.csproj|c:\\users\\jonathan\\desktop\\estudo\\manipu\u00E7\u00E3o de arquivo\\exercicio\\exercicio\\exercicio\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85F1351B-537E-4274-A626-DCEAFE0418F3}|exercicio\\exercicio.csproj|c:\\users\\jonathan\\desktop\\estudo\\manipu\u00E7\u00E3o de arquivo\\exercicio\\manipulacaoarquivoscs\\exercicio\\exercicio\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85F1351B-537E-4274-A626-DCEAFE0418F3}|exercicio\\exercicio.csproj|solutionrelative:exercicio\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\Estudo\\Manipu\u00E7\u00E3o de arquivo\\exercicio\\exercicio\\exercicio\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\Estudo\\Manipu\u00E7\u00E3o de arquivo\\exercicio\\ManipulacaoArquivosCS\\exercicio\\exercicio\\Program.cs",
               "RelativeDocumentMoniker": "exercicio\\Program.cs",
-              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\Estudo\\Manipu\u00E7\u00E3o de arquivo\\exercicio\\exercicio\\exercicio\\Program.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\Estudo\\Manipu\u00E7\u00E3o de arquivo\\exercicio\\ManipulacaoArquivosCS\\exercicio\\exercicio\\Program.cs",
               "RelativeToolTip": "exercicio\\Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAABsAAABCAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswC4AAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T02:05:58.276Z",
               "IsPinned": true,
@@ -38,14 +38,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\Estudo\\Manipu\u00E7\u00E3o de arquivo\\exercicio\\exercicio\\exercicio\\Item.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\Estudo\\Manipu\u00E7\u00E3o de arquivo\\exercicio\\ManipulacaoArquivosCS\\exercicio\\exercicio\\Item.cs",
               "RelativeDocumentMoniker": "exercicio\\Item.cs",
-              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\Estudo\\Manipu\u00E7\u00E3o de arquivo\\exercicio\\exercicio\\exercicio\\Item.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\Estudo\\Manipu\u00E7\u00E3o de arquivo\\exercicio\\ManipulacaoArquivosCS\\exercicio\\exercicio\\Item.cs",
               "RelativeToolTip": "exercicio\\Item.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAABFwBcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T02:06:50.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T02:06:50.042Z"
             }
           ]
         }
