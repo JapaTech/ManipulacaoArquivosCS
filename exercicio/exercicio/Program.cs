@@ -44,7 +44,7 @@ namespace exercicio
                     }
                 }
 
-                Console.WriteLine("Arquivos gerado com sucesso");
+                Console.WriteLine("\nArquivos gerado com sucesso");
 
             }
             catch (IOException e)
